@@ -1,15 +1,29 @@
-# **<h2 align="left"> <img src="https://cdn.discordapp.com/emojis/1076816640987111456.png?size=128&quality=lossless" width="30px"> Luppux Team <img src="https://cdn.discordapp.com/emojis/1076816640987111456.png?size=128&quality=lossless" width="30px"> </h2>**
 
-- ***Let's code together in a language we love 💖***
+<p align="center"> <img width="20%" align="center" src="https://cdn.discordapp.com/emojis/1076816640987111456.png?size=128&quality=lossless"></p>
 
-[<img src="https://cdn.discordapp.com/attachments/1075535580517113986/1083046592543723580/LuppuxBannerLulyaskkmistedi.png" width="400px">](https://discord.gg/luppux)
+<div align="center">
+<img width="70%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=+Luppux+Development;">
+</div>
 
+### ・ Technologies use
 
-# **🧷 Our Aim**
-- ***Luppux*** *is a Full Stack Developer Team, We Are Here With Extraordinary Projects!*
+<div>
+<img 
+src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,vue,c,cpp,cs,bootstrap,py,react,mongo,github,heroku,mysql,nextjs,discord,bots,kotlin,sqlite,java,nestjs,php,kubernetes,docker,vim,prisma,firebase,webpack&theme=dark"
+/>
+</div>
 
-# **👨‍💻 Our Developer Team**
+### ・ Who we are?
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852800814808694814?hideDiscrim=true)](https://discord.com/users/852800814808694814)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341592492224806914?hideDiscrim=true)](https://discord.com/users/341592492224806914)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852103749228036136?hideDiscrim=true)](https://discord.com/users/852103749228036136)
+
+### ・ Contact
+
+Discord Servers: https://discord.gg/luppux
+
+#
+
+<p align="center">Developing with ❤</p>
